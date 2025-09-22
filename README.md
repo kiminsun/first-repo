@@ -25,4 +25,4 @@ There is no installation for this project
 
 ## Credit
 
-- @kiminsun
+- @kiminsun_
